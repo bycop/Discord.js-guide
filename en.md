@@ -1,12 +1,12 @@
 # Discord.js Guide
 Welcome on the English version guide, here you will learn how to create your first bot, how to invite it on servers and how to host it 24h/24 for free.
 
-## Sommaire
+## Summary
 
-1. [Requirements](https://github.com/bycop/discord.js-guide/blob/master/en.md#Requirement)
-2. [Creation of the token](https://github.com/bycop/discord.js-guide/blob/master/en.md#cr%C3%A9ation-dun-token)
-3. [Creation of your first command](https://github.com/bycop/discord.js-guide/blob/master/en.md#cr%C3%A9ation-de-votre-premi%C3%A8re-commande)
-5. [How to host the bot for free](https://github.com/bycop/discord.js-guide/blob/master/en.md#comment-h%C3%A9berger-le-bot-gratuitement)
+1. [Requirements](https://github.com/bycop/discord.js-guide/blob/master/en.md#requirements)
+2. [Creation of the token](https://github.com/bycop/discord.js-guide/blob/master/en.md#creation-of-the-token)
+3. [Creation of your first command](https://github.com/bycop/discord.js-guide/blob/master/en.md#creation-of-your-first-command)
+5. [How to host the bot for free](https://github.com/bycop/discord.js-guide/blob/master/en.md#creation-of-the-token)
 
 ## Requirements
 
