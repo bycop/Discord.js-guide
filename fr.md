@@ -44,7 +44,6 @@ Dans le haut de la fenêtre vous aurez un onglet "Terminal", cliquez dessus puis
 Une fois sur la fenêtre de terminal, lancez la commande "npm init" puis faites entrer jusqu'au moment où il est demandé d'écrire "yes", écrivez-le puis faites entrer à nouveau.
 Dans cette même fenêtre, lancez la commande "npm install discord.js" afin d'installer la librairie discordjs qui va nous permettre de travailler facilement avec l'api Discord.
 <br><br>
-Les sources du bot en Anglais se trouveront dans le dossier "srcs" à la racine du repo github.
 ```javascript
 const Discord = require('discord.js');
 ```
