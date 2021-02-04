@@ -3,10 +3,10 @@ Bienvenue sur le guide version française, ici vous allez apprendre à créer vo
 
 ## Sommaire
 
-1. Prérequis
-2. Création du token
-3. Création de votre première commande
-5. Comment héberger le bot gratuitement
+1. [Prérequis](https://github.com/bycop/discord.js-guide/blob/master/fr.md#pr%C3%A9requis)
+2. [Création du token](https://github.com/bycop/discord.js-guide/blob/master/fr.md#cr%C3%A9ation-dun-token)
+3. [Création de votre première commande](https://github.com/bycop/discord.js-guide/blob/master/fr.md#cr%C3%A9ation-de-votre-premi%C3%A8re-commande)
+5. [Comment héberger le bot gratuitement](https://github.com/bycop/discord.js-guide/blob/master/fr.md#comment-h%C3%A9berger-le-bot-gratuitement)
 
 ## Prérequis
 
