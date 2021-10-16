@@ -50,7 +50,7 @@ const Discord = require('discord.js');
 ```
 The first line of our bot will be the one that will define the keyword "Discord" in order to be able to call it later.
 ```javascript
-const bot = new Discord.Client();
+const bot = new Discord.Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]});
 ```
 This second line, uses the Discord created above to create the bot itself.
 ```javascript
