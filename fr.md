@@ -49,7 +49,7 @@ const Discord = require('discord.js');
 ```
 La première ligne de notre bot sera celle qui va définir le mot clé "Discord" afin de pouvoir l'appeler plus tard.
 ```javascript
-const bot = new Discord.Client();
+const bot = new Discord.Client({intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES]});
 ```
 Cette seconde ligne, se sert du Discord créer au-dessus pour créer le bot en lui même.
 ```javascript
